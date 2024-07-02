@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=mnmlst
+Description=A very clean SDDM theme
+Author=Alexander Koch
+Copyright=Copyright (C) 2024 Alexander Koch
+License=MIT
+Type=sddm-theme
+Version=1.0
+Website=https://github.com/lynix/sddm-theme-mnmlst
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=mnmlst
+Theme-API=2.11
+QtVersion=6
