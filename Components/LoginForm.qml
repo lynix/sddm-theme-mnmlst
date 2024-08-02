@@ -16,7 +16,7 @@ GridLayout {
         function onLoginFailed() {
             loginMessage.text = "Login failed.";
             loginMessage.color = "red";
-            passwordField.password = "";
+            passwordField.text = "";
         }
 
         function onInformationMessage(message) {
